@@ -14,3 +14,5 @@ docker exec -it {nombre_contenedor} /usr/bin/odoo -d {nombre_db} -u {nombre_modu
 
 ## extras
 Odoo Debug -- google extencion
+Odoo Snippets -- vscode
+
